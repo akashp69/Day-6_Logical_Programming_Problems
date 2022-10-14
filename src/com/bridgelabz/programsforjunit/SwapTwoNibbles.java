@@ -16,7 +16,7 @@ public class SwapTwoNibbles {
 
          }
          int arr1[]=arr;
-        System.out.println((arr1));
+        System.out.println((Array.toString(arr1));
 
 
     }
